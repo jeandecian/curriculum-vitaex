@@ -8,10 +8,24 @@
   },
   "strings": {
     "en": {
-      "greeting": "Hello"
+      "certifications_title": "Certifications",
+      "distinctions_title": "Distinctions",
+      "education_title": "Education",
+      "experience_title": "Experience",
+      "projects_title": "Projects",
+      "publications_title": "Publications",
+      "skills_title": "Skills",
+      "summary_title": "Summary"
     },
     "fr": {
-      "greeting": "Bonjour"
+      "certifications_title": "Certifications",
+      "distinctions_title": "Distinctions",
+      "education_title": "Formation",
+      "experience_title": "Expérience",
+      "projects_title": "Projets",
+      "publications_title": "Publications",
+      "skills_title": "Compétences",
+      "summary_title": "Sommaire"
     }
   }
 }
