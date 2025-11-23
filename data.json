@@ -1,5 +1,17 @@
 {
+  "settings": {
+    "default_language": "fr",
+    "supported_languages": ["en", "fr"]
+  },
   "personal": {
     "name": "Jean Decian"
+  },
+  "strings": {
+    "en": {
+      "greeting": "Hello"
+    },
+    "fr": {
+      "greeting": "Bonjour"
+    }
   }
 }
